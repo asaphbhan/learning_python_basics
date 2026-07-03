@@ -1,0 +1,1 @@
+This repository contains all the projects I made while learning Python from the 'Python Full Course' by Bro Code on YouTube. The projects here are from the video itself, as well as some suggested by ChatGPT, which was given directives to act as a professional CS Professor to review and help with coding rather than just giving away the answers.
