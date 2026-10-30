@@ -1,3 +1,4 @@
+#here i am learning how to read and write files using python.
 import csv
 import datetime as dt
 import random as rd
